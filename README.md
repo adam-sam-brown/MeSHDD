@@ -1,7 +1,6 @@
 # MeSHDD: Literature-based drug-drug similarity for drug repositioning
 
 ## Abstract
-Abstract
 **Objective** Drug repositioning is a promising methodology for reducing the cost and duration of the drug discovery pipeline. We sought to develop a computational repositioning method leveraging annotations in the literature, such as Medical Subject Heading (MeSH) terms.
 
 **Methods** We developed software to determine significantly co-occurring drug-MeSH term pairs and a method to estimate pair-wise literature-derived distances between drugs.
